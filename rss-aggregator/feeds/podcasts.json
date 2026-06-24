@@ -1,0 +1,95 @@
+{
+  "title": "Podcasts",
+  "sources": [
+    {
+      "name": "Bagerstop",
+      "url": "https://rss.app/feeds/HzETWZDHLvtjcUP6.xml",
+      "language": "🇩🇰"
+    },
+    {
+      "name": "Bak Lane",
+      "url": "https://rss.app/feeds/M348QHDss3NllQ5V.xml",
+      "language": "🇩🇰"
+    },
+    {
+      "name": "Café Eddy",
+      "url": "https://rss.app/feeds/UmTcfoWQUbq891xL.xml",
+      "language": "🇩🇰"
+    },
+    {
+      "name": "Forhjulslir",
+      "url": "https://rss.app/feeds/myOgCNbhsED8c1Ey.xml",
+      "language": "🇩🇰"
+    },
+    {
+      "name": "Lang Distance",
+      "url": "https://rss.app/feeds/0jJE9xRgPWEqruix.xml",
+      "language": "🇩🇰"
+    },
+    {
+      "name": "Radio Tour",
+      "url": "https://rss.app/feeds/4zAT4MjZwzi5amlY.xml",
+      "language": "🇩🇰"
+    },
+    {
+      "name": "Veloropa",
+      "url": "https://rss.app/feeds/uXRxyDIIfvH1benQ.xml",
+      "language": "🇩🇰"
+    },
+    {
+      "name": "Cyclist Magazine Podcast",
+      "url": "https://rss.app/feeds/aCIvr5SaPZ9ZQByV.xml",
+      "language": "🇬🇧"
+    },
+    {
+      "name": "Domestique Podcast",
+      "url": "https://rss.app/feeds/BuiEIC0MyvyEabxf.xml",
+      "language": "🇬🇧"
+    },
+    {
+      "name": "Femme Cyclist Podcast",
+      "url": "https://rss.app/feeds/SpQAxDPG6SO09Bu6.xml",
+      "language": "🇬🇧"
+    },
+    {
+      "name": "Global Cycling Network",
+      "url": "https://rss.app/feeds/2hbChtX9or2z2vmm.xml",
+      "language": "🇬🇧"
+    },
+    {
+      "name": "Half Wheeling",
+      "url": "https://rss.app/feeds/XGPFc0nqnTIi466a.xml",
+      "language": "🇬🇧"
+    },
+    {
+      "name": "Lanterne Rouge",
+      "url": "https://rss.app/feeds/Hm5kfJf6WHCzv2w4.xml",
+      "language": "🇬🇧"
+    },
+    {
+      "name": "Matt Stephens Unplugged",
+      "url": "https://rss.app/feeds/4bTtMUE9TLiTtp7T.xml",
+      "language": "🇬🇧"
+    },
+    {
+      "name": "Never Strays Far",
+      "url": "https://rss.app/feeds/kkXjbu44LW9mR4uP.xml",
+      "language": "🇬🇧"
+    },
+    {
+      "name": "The Cycling Podcast",
+      "url": "https://rss.app/feeds/AEbxOmbY1oLEY1pX.xml",
+      "language": "🇬🇧"
+    },
+    {
+      "name": "THEMOVE",
+      "url": "https://rss.app/feeds/fYfylHvREBus6xHe.xml",
+      "language": "🇬🇧"
+    },
+    {
+      "name": "Watts Occurring",
+      "url": "https://rss.app/feeds/niSCtmYlJJAnHuNH.xml",
+      "language": "🇬🇧"
+    }
+  ]
+}

@@ -1,0 +1,1109 @@
+{
+  "title": "Teams",
+  "sources": [
+    {
+      "name": "AG Insurance-Soudal Team (Facebook)",
+      "url": "https://rss.app/feeds/L0y8t6VErvIdNnPl.xml",
+      "country": "Belgium",
+      "platform": "Facebook"
+    },
+    {
+      "name": "AG Insurance-Soudal Team (Instagram)",
+      "url": "https://rss.app/feeds/KMvi3rBTUr9UIdZw.xml",
+      "country": "Belgium",
+      "platform": "Instagram"
+    },
+    {
+      "name": "AG Insurance-Soudal Team (X)",
+      "url": "https://rss.app/feeds/r3RJcvefreCZ4O00.xml",
+      "country": "Belgium",
+      "platform": "X"
+    },
+    {
+      "name": "AG Insurance-Soudal Team (LinkedIn)",
+      "url": "https://rss.app/feeds/CQcnfsQ8lzKcyI6v.xml",
+      "country": "Belgium",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "AG Insurance-Soudal Team (YouTube)",
+      "url": "https://rss.app/feeds/7OZ0O671Oad1mEUm.xml",
+      "country": "Belgium",
+      "platform": "YouTube"
+    },
+    {
+      "name": "AG Insurance-Soudal Team (TikTok)",
+      "url": "https://rss.app/feeds/n7WjYk91pbZNuSig.xml",
+      "country": "Belgium",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Airtox - Carl Ras (Facebook)",
+      "url": "https://rss.app/feeds/CtsZ98dRvq737KfT.xml",
+      "country": "Denmark",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Airtox - Carl Ras (Instagram)",
+      "url": "https://rss.app/feeds/dwSojGk01ZFjtizI.xml",
+      "country": "Denmark",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Airtox - Carl Ras (LinkedIn)",
+      "url": "https://rss.app/feeds/p5UvJaeFiIJLEvAR.xml",
+      "country": "Denmark",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Alpecin-Premier Tech (Facebook)",
+      "url": "https://rss.app/feeds/73A7LifMNMYI3c1t.xml",
+      "country": "Belgium",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Alpecin-Premier Tech (Instagram)",
+      "url": "https://rss.app/feeds/OfE0LOXZ0uEOnA6N.xml",
+      "country": "Belgium",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Alpecin-Premier Tech (X)",
+      "url": "https://rss.app/feeds/Ooi7ZAd9G7YEhFEi.xml",
+      "country": "Belgium",
+      "platform": "X"
+    },
+    {
+      "name": "Alpecin-Premier Tech (LinkedIn)",
+      "url": "https://rss.app/feeds/yX9FO5eGeF5gU8Ma.xml",
+      "country": "Belgium",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Alpecin-Premier Tech (YouTube)",
+      "url": "https://rss.app/feeds/lFSuhRRmlz4t9DkL.xml",
+      "country": "Belgium",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Alpecin-Premier Tech (TikTok)",
+      "url": "https://rss.app/feeds/t1N70vEWxlFmxx9e.xml",
+      "country": "Belgium",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Bahrain Victorious (Facebook)",
+      "url": "https://rss.app/feeds/DKeSat114YODV9Pk.xml",
+      "country": "Bahrain",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Bahrain Victorious (Instagram)",
+      "url": "https://rss.app/feeds/hVD6SbVdjzVYFsnf.xml",
+      "country": "Bahrain",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Bahrain Victorious (X)",
+      "url": "https://rss.app/feeds/vQ1b5cLvVo0vwn6A.xml",
+      "country": "Bahrain",
+      "platform": "X"
+    },
+    {
+      "name": "Bahrain Victorious (TikTok)",
+      "url": "https://rss.app/feeds/6lG23NGFutPSaGlt.xml",
+      "country": "Bahrain",
+      "platform": "TikTok"
+    },
+    {
+      "name": "BHS - PL Beton Bornholm (Facebook)",
+      "url": "https://rss.app/feeds/JAwcNyoq7afD6Tq4.xml",
+      "country": "Denmark",
+      "platform": "Facebook"
+    },
+    {
+      "name": "BHS - PL Beton Bornholm (Instagram)",
+      "url": "https://rss.app/feeds/dLpQMgmRXehfKrfe.xml",
+      "country": "Denmark",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Canyon//SRAM Zondacrypto (Facebook)",
+      "url": "https://rss.app/feeds/rWlCoyJ2bHAqORfH.xml",
+      "country": "Germany",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Canyon//SRAM Zondacrypto (Instagram)",
+      "url": "https://rss.app/feeds/LFH15uDo903gNTuy.xml",
+      "country": "Germany",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Canyon//SRAM Zondacrypto (X)",
+      "url": "https://rss.app/feeds/o6QqoaU0knxR2C6R.xml",
+      "country": "Germany",
+      "platform": "X"
+    },
+    {
+      "name": "Canyon//SRAM Zondacrypto (YouTube)",
+      "url": "https://rss.app/feeds/DUQnSRijPlagpWVj.xml",
+      "country": "Germany",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Canyon//SRAM Zondacrypto (TikTok)",
+      "url": "https://rss.app/feeds/NwNro7un9cZ658a7.xml",
+      "country": "Germany",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Cofidis (Facebook)",
+      "url": "https://rss.app/feeds/YPiimmi0l9Jwrt47.xml",
+      "country": "France",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Cofidis (Instagram)",
+      "url": "https://rss.app/feeds/ixAU6YxUCT6sM9BT.xml",
+      "country": "France",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Cofidis (X)",
+      "url": "https://rss.app/feeds/Cx5x0NsvkGEukprG.xml",
+      "country": "France",
+      "platform": "X"
+    },
+    {
+      "name": "Cofidis (LinkedIn)",
+      "url": "https://rss.app/feeds/YhO1MasABxh6AZEN.xml",
+      "country": "France",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Cofidis (YouTube)",
+      "url": "https://rss.app/feeds/kJyR1KMkSTKSI3aU.xml",
+      "country": "France",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Cofidis (TikTok)",
+      "url": "https://rss.app/feeds/jp6LeAYsWyS10nFb.xml",
+      "country": "France",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Decathlon CMA CGM Team (Facebook)",
+      "url": "https://rss.app/feeds/2XtJWjZRY5a1ygFW.xml",
+      "country": "France",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Decathlon CMA CGM Team (Instagram)",
+      "url": "https://rss.app/feeds/IVGZ0vXsyGqbutLb.xml",
+      "country": "France",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Decathlon CMA CGM Team (X)",
+      "url": "https://rss.app/feeds/WcGKQdOYkVNXAvX7.xml",
+      "country": "France",
+      "platform": "X"
+    },
+    {
+      "name": "Decathlon CMA CGM Team (LinkedIn)",
+      "url": "https://rss.app/feeds/yp9DNU9jV1wqe1Iu.xml",
+      "country": "France",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Decathlon CMA CGM Team (YouTube)",
+      "url": "https://rss.app/feeds/AGJR5wcBYvNTBcjZ.xml",
+      "country": "France",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Decathlon CMA CGM Team (TikTok)",
+      "url": "https://rss.app/feeds/wdVE4N6pMTmx9ZBW.xml",
+      "country": "France",
+      "platform": "TikTok"
+    },
+    {
+      "name": "EF Education-Easypost (Facebook)",
+      "url": "https://rss.app/feeds/68tZqrCw2edk1fvT.xml",
+      "country": "USA",
+      "platform": "Facebook"
+    },
+    {
+      "name": "EF Education-Easypost (Instagram)",
+      "url": "https://rss.app/feeds/PYdbFeYVEfHwGKtH.xml",
+      "country": "USA",
+      "platform": "Instagram"
+    },
+    {
+      "name": "EF Education-Easypost (X)",
+      "url": "https://rss.app/feeds/tIHigLyrbw3Uwfkr.xml",
+      "country": "USA",
+      "platform": "X"
+    },
+    {
+      "name": "EF Education-Easypost (YouTube)",
+      "url": "https://rss.app/feeds/r19PuEU1CthPpq6A.xml",
+      "country": "USA",
+      "platform": "YouTube"
+    },
+    {
+      "name": "EF Education-Easypost (TikTok)",
+      "url": "https://rss.app/feeds/xn66c9XE2Vi5XZw8.xml",
+      "country": "USA",
+      "platform": "TikTok"
+    },
+    {
+      "name": "EF Education-Oatly (Facebook)",
+      "url": "https://rss.app/feeds/re1fAkU1kiQr5vSP.xml",
+      "country": "USA",
+      "platform": "Facebook"
+    },
+    {
+      "name": "EF Education-Oatly (Instagram)",
+      "url": "https://rss.app/feeds/UTUgQ6wPuolYfiHM.xml",
+      "country": "USA",
+      "platform": "Instagram"
+    },
+    {
+      "name": "EF Education-Oatly (X)",
+      "url": "https://rss.app/feeds/mc3RSmQTGYG54uT3.xml",
+      "country": "USA",
+      "platform": "X"
+    },
+    {
+      "name": "EF Education-Oatly (TikTok)",
+      "url": "https://rss.app/feeds/ZObtriNjbnKErHvL.xml",
+      "country": "USA",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Euskaltel-Euskadi (Facebook)",
+      "url": "https://rss.app/feeds/0gjNxKlEUmSvw7qg.xml",
+      "country": "Spain",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Euskaltel-Euskadi (Instagram)",
+      "url": "https://rss.app/feeds/2PbWbZxPmvcqxU0Y.xml",
+      "country": "Spain",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Euskaltel-Euskadi (X)",
+      "url": "https://rss.app/feeds/7SLwLPVToBbiwQb1.xml",
+      "country": "Spain",
+      "platform": "X"
+    },
+    {
+      "name": "Euskaltel-Euskadi (TikTok)",
+      "url": "https://rss.app/feeds/iSCUVLuZJCAyoWXK.xml",
+      "country": "Spain",
+      "platform": "TikTok"
+    },
+    {
+      "name": "FDJ-Suez (Facebook)",
+      "url": "https://rss.app/feeds/Y2CrkdKAZtXtYekz.xml",
+      "country": "France",
+      "platform": "Facebook"
+    },
+    {
+      "name": "FDJ-Suez (Instagram)",
+      "url": "https://rss.app/feeds/yqZ9DLjrFzHkO1K7.xml",
+      "country": "France",
+      "platform": "Instagram"
+    },
+    {
+      "name": "FDJ-Suez (X)",
+      "url": "https://rss.app/feeds/t7GiswREUVh5m8VE.xml",
+      "country": "France",
+      "platform": "X"
+    },
+    {
+      "name": "FDJ-Suez (LinkedIn)",
+      "url": "https://rss.app/feeds/SP8s5ynCv09ZPtQd.xml",
+      "country": "France",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "FDJ-Suez (YouTube)",
+      "url": "https://rss.app/feeds/1Mn8ckB4erc5xSQj.xml",
+      "country": "France",
+      "platform": "YouTube"
+    },
+    {
+      "name": "FDJ-Suez (TikTok)",
+      "url": "https://rss.app/feeds/gnNU7B0MaApT0SN4.xml",
+      "country": "France",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Fenix-PremierTech (Facebook)",
+      "url": "https://rss.app/feeds/ZjXtUm2EyKPAzqJX.xml",
+      "country": "Belgium",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Fenix-PremierTech (Instagram)",
+      "url": "https://rss.app/feeds/0xCwHtObRggNt3Y4.xml",
+      "country": "Belgium",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Fenix-PremierTech (X)",
+      "url": "https://rss.app/feeds/Dlvus1gok2uF4OSh.xml",
+      "country": "Belgium",
+      "platform": "X"
+    },
+    {
+      "name": "Fenix-PremierTech (TikTok)",
+      "url": "https://rss.app/feeds/qIXLvDWlIv8KNiiv.xml",
+      "country": "Belgium",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Groupama-FDJ United (Facebook)",
+      "url": "https://rss.app/feeds/jWiAqSd5mu8wf5sX.xml",
+      "country": "France",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Groupama-FDJ United (Instagram)",
+      "url": "https://rss.app/feeds/TWi5WWNHJlqiPatw.xml",
+      "country": "France",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Groupama-FDJ United (X)",
+      "url": "https://rss.app/feeds/VVppBQnOswEywTDN.xml",
+      "country": "France",
+      "platform": "X"
+    },
+    {
+      "name": "Groupama-FDJ United (YouTube)",
+      "url": "https://rss.app/feeds/OxRAD8BDHra1JLth.xml",
+      "country": "France",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Groupama-FDJ United (TikTok)",
+      "url": "https://rss.app/feeds/rfymRd27PaONtqAr.xml",
+      "country": "France",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Human Powered Health (Facebook)",
+      "url": "https://rss.app/feeds/p9MY9lno0NWyMiuq.xml",
+      "country": "USA",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Human Powered Health (Instagram)",
+      "url": "https://rss.app/feeds/CXAH8SSPGMhvY4Kw.xml",
+      "country": "USA",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Human Powered Health (X)",
+      "url": "https://rss.app/feeds/AMOsIBDdlusJaTHH.xml",
+      "country": "USA",
+      "platform": "X"
+    },
+    {
+      "name": "Human Powered Health (LinkedIn)",
+      "url": "https://rss.app/feeds/x7hHee3u4QtV4tfm.xml",
+      "country": "USA",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Human Powered Health (YouTube)",
+      "url": "https://rss.app/feeds/ORYoJz2tJFjiD7fH.xml",
+      "country": "USA",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Human Powered Health (TikTok)",
+      "url": "https://rss.app/feeds/5xtaesEBlGSFQsD4.xml",
+      "country": "USA",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Ineos Grenadiers (Facebook)",
+      "url": "https://rss.app/feeds/dMDmiMwlNAOHTDSn.xml",
+      "country": "United Kingdom",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Ineos Grenadiers (Instagram)",
+      "url": "https://rss.app/feeds/frTji0Ain2R9BQVI.xml",
+      "country": "United Kingdom",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Ineos Grenadiers (X)",
+      "url": "https://rss.app/feeds/jHIgNHdZUzFeSLja.xml",
+      "country": "United Kingdom",
+      "platform": "X"
+    },
+    {
+      "name": "Ineos Grenadiers (LinkedIn)",
+      "url": "https://rss.app/feeds/hGZubnHxFzBMs0KS.xml",
+      "country": "United Kingdom",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Ineos Grenadiers (YouTube)",
+      "url": "https://rss.app/feeds/a1GRRcS8EVioL5H1.xml",
+      "country": "United Kingdom",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Ineos Grenadiers (TikTok)",
+      "url": "https://rss.app/feeds/U9zpfmgLkQYS1gkb.xml",
+      "country": "United Kingdom",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Lidl-Trek (Facebook)",
+      "url": "https://rss.app/feeds/smNJvF4vfhKx0Tmh.xml",
+      "country": "USA",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Lidl-Trek (Instagram)",
+      "url": "https://rss.app/feeds/ws0R2V6MqUmCAk0m.xml",
+      "country": "USA",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Lidl-Trek (X)",
+      "url": "https://rss.app/feeds/KXrhilEeldHA4LtC.xml",
+      "country": "USA",
+      "platform": "X"
+    },
+    {
+      "name": "Lidl-Trek (LinkedIn)",
+      "url": "https://rss.app/feeds/pgTf4iQ0V4u55KUE.xml",
+      "country": "USA",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Lidl-Trek (YouTube)",
+      "url": "https://rss.app/feeds/hAgWtGqd3wGUdJMA.xml",
+      "country": "USA",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Lidl-Trek (TikTok)",
+      "url": "https://rss.app/feeds/PxdFxxrUv70uXTqu.xml",
+      "country": "USA",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Liv-AlUla-Jayco (Facebook)",
+      "url": "https://rss.app/feeds/TKAx61O8xlS5rahb.xml",
+      "country": "Australia",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Liv-AlUla-Jayco (Instagram)",
+      "url": "https://rss.app/feeds/fQla13RS22qZf152.xml",
+      "country": "Australia",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Liv-AlUla-Jayco (X)",
+      "url": "https://rss.app/feeds/MOWJbWochJgvQJm4.xml",
+      "country": "Australia",
+      "platform": "X"
+    },
+    {
+      "name": "Liv-AlUla-Jayco (LinkedIn)",
+      "url": "https://rss.app/feeds/XAr87PusV5rn8JlT.xml",
+      "country": "Australia",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Liv-AlUla-Jayco (YouTube)",
+      "url": "https://rss.app/feeds/LcMBKc3zzQztB1GB.xml",
+      "country": "Australia",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Liv-AlUla-Jayco (TikTok)",
+      "url": "https://rss.app/feeds/T4MvcV1NhH63CMBd.xml",
+      "country": "Australia",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Lotto-Intermarché (Facebook)",
+      "url": "https://rss.app/feeds/rBDh8srb1eyvRN1E.xml",
+      "country": "Belgium",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Lotto-Intermarché (Instagram)",
+      "url": "https://rss.app/feeds/XP8KZoYT1WaJeq3p.xml",
+      "country": "Belgium",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Lotto-Intermarché (X)",
+      "url": "https://rss.app/feeds/MSOHEANns47Y4jtQ.xml",
+      "country": "Belgium",
+      "platform": "X"
+    },
+    {
+      "name": "Lotto-Intermarché (LinkedIn)",
+      "url": "https://rss.app/feeds/dg9Clm6eFyfrRuW7.xml",
+      "country": "Belgium",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Lotto-Intermarché (YouTube)",
+      "url": "https://rss.app/feeds/wpzUdlU69KlFiBgl.xml",
+      "country": "Belgium",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Lotto-Intermarché (TikTok)",
+      "url": "https://rss.app/feeds/OLt7oCkghKjcu5MP.xml",
+      "country": "Belgium",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Movistar Team (Facebook)",
+      "url": "https://rss.app/feeds/9xOpWs48bUBnUqKG.xml",
+      "country": "Spain",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Movistar Team (Instagram)",
+      "url": "https://rss.app/feeds/hhDLdopANxOR6WNj.xml",
+      "country": "Spain",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Movistar Team (X)",
+      "url": "https://rss.app/feeds/Gnf4BlwncFy9Fdg8.xml",
+      "country": "Spain",
+      "platform": "X"
+    },
+    {
+      "name": "Movistar Team (LinkedIn)",
+      "url": "https://rss.app/feeds/cZT1KlcYrNu2LmiQ.xml",
+      "country": "Spain",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Movistar Team (YouTube)",
+      "url": "https://rss.app/feeds/D0WnueFYWAa2hg6a.xml",
+      "country": "Spain",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Movistar Team (TikTok)",
+      "url": "https://rss.app/feeds/kalJooZMxOH3WHmK.xml",
+      "country": "Spain",
+      "platform": "TikTok"
+    },
+    {
+      "name": "NSN Cycling Team (Facebook)",
+      "url": "https://rss.app/feeds/ZTErmr3J9EGucwL7.xml",
+      "country": "Switzerland",
+      "platform": "Facebook"
+    },
+    {
+      "name": "NSN Cycling Team (Instagram)",
+      "url": "https://rss.app/feeds/p5GHwpQl00tnory9.xml",
+      "country": "Switzerland",
+      "platform": "Instagram"
+    },
+    {
+      "name": "NSN Cycling Team (X)",
+      "url": "https://rss.app/feeds/uZkXHRL0LQf9kdgA.xml",
+      "country": "Switzerland",
+      "platform": "X"
+    },
+    {
+      "name": "NSN Cycling Team (LinkedIn)",
+      "url": "https://rss.app/feeds/2kSOmARr9buB6C0g.xml",
+      "country": "Switzerland",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "NSN Cycling Team (YouTube)",
+      "url": "https://rss.app/feeds/TXP9FDlQaPyN0SZ4.xml",
+      "country": "Switzerland",
+      "platform": "YouTube"
+    },
+    {
+      "name": "NSN Cycling Team (TikTok)",
+      "url": "https://rss.app/feeds/8DEeRdwuP0nTDq21.xml",
+      "country": "Switzerland",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Red Bull-Bora-Hansgrohe (Facebook)",
+      "url": "https://rss.app/feeds/9WACuozSHhi8NTbo.xml",
+      "country": "Germany",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Red Bull-Bora-Hansgrohe (Instagram)",
+      "url": "https://rss.app/feeds/xFaXAKQIYzEx7m6K.xml",
+      "country": "Germany",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Red Bull-Bora-Hansgrohe (X)",
+      "url": "https://rss.app/feeds/oGOzxhAOBRtKCaEF.xml",
+      "country": "Germany",
+      "platform": "X"
+    },
+    {
+      "name": "Red Bull-Bora-Hansgrohe (LinkedIn)",
+      "url": "https://rss.app/feeds/9jA8Mng55a7Y4OsH.xml",
+      "country": "Germany",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Red Bull-Bora-Hansgrohe (YouTube)",
+      "url": "https://rss.app/feeds/q2NYc3oQbwGZ26g5.xml",
+      "country": "Germany",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Red Bull-Bora-Hansgrohe (TikTok)",
+      "url": "https://rss.app/feeds/dGG0bgrZKVnX2rDy.xml",
+      "country": "Germany",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Soudal Quick-Step (Facebook)",
+      "url": "https://rss.app/feeds/MPQ51XZTmh8XQfLj.xml",
+      "country": "Belgium",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Soudal Quick-Step (Instagram)",
+      "url": "https://rss.app/feeds/LuXgQ5YuMpBfKbDy.xml",
+      "country": "Belgium",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Soudal Quick-Step (X)",
+      "url": "https://rss.app/feeds/iSfiyqsrcq5izHhg.xml",
+      "country": "Belgium",
+      "platform": "X"
+    },
+    {
+      "name": "Soudal Quick-Step (LinkedIn)",
+      "url": "https://rss.app/feeds/ehBqcNNtWFc93f1C.xml",
+      "country": "Belgium",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Soudal Quick-Step (YouTube)",
+      "url": "https://rss.app/feeds/CKW2tXMx8yHTKK7I.xml",
+      "country": "Belgium",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Soudal Quick-Step (TikTok)",
+      "url": "https://rss.app/feeds/0Gq3uB5Qz4cyEo9D.xml",
+      "country": "Belgium",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Team Coloquick (Facebook)",
+      "url": "https://rss.app/feeds/SO9BN3Vxi5kUQAcx.xml",
+      "country": "Denmark",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Team Coloquick (Instagram)",
+      "url": "https://rss.app/feeds/QLHc6QvhTyHtuacg.xml",
+      "country": "Denmark",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Team Coloquick (LinkedIn)",
+      "url": "https://rss.app/feeds/V6rPoX1GIto4kMCm.xml",
+      "country": "Denmark",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Team Coloquick (YouTube)",
+      "url": "https://rss.app/feeds/l8ZyFCbwcQFmBBDz.xml",
+      "country": "Denmark",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Team Give Steel (Facebook)",
+      "url": "https://rss.app/feeds/Abifpheem24WcqyB.xml",
+      "country": "Denmark",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Team Give Steel (Instagram)",
+      "url": "https://rss.app/feeds/d9GlnUyXKKyUgFum.xml",
+      "country": "Denmark",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Team Novo Nordisk (Facebook)",
+      "url": "https://rss.app/feeds/9yQkIebsorn7dkUT.xml",
+      "country": "USA",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Team Novo Nordisk (Instagram)",
+      "url": "https://rss.app/feeds/hfhznz6shu7kkyr5.xml",
+      "country": "USA",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Team Novo Nordisk (X)",
+      "url": "https://rss.app/feeds/UgGwHrCfynreu1oY.xml",
+      "country": "USA",
+      "platform": "X"
+    },
+    {
+      "name": "Team Novo Nordisk (LinkedIn)",
+      "url": "https://rss.app/feeds/5NF2UPQySZq0wkvM.xml",
+      "country": "USA",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Team Picnic PostNL (Facebook)",
+      "url": "https://rss.app/feeds/lxQXKe0SwsiJLcdq.xml",
+      "country": "Netherlands",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Team Picnic PostNL (Instagram)",
+      "url": "https://rss.app/feeds/YKVujkxV2tmuslTm.xml",
+      "country": "Netherlands",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Team Picnic PostNL (X)",
+      "url": "https://rss.app/feeds/pHfTnSK3tWdvNOtq.xml",
+      "country": "Netherlands",
+      "platform": "X"
+    },
+    {
+      "name": "Team Picnic PostNL (LinkedIn)",
+      "url": "https://rss.app/feeds/Rodwl0f9hLjjgAQs.xml",
+      "country": "Netherlands",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Team Picnic PostNL (YouTube)",
+      "url": "https://rss.app/feeds/mNOCsmt3CUlYGWxh.xml",
+      "country": "Netherlands",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Team Picnic PostNL (TikTok)",
+      "url": "https://rss.app/feeds/khPPIFlbNg05LdoJ.xml",
+      "country": "Netherlands",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Team SD Worx-ProTime (Facebook)",
+      "url": "https://rss.app/feeds/f43yHRh3EsQmgTmr.xml",
+      "country": "Netherlands",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Team SD Worx-ProTime (Instagram)",
+      "url": "https://rss.app/feeds/pYhnVJv0dowWqa2q.xml",
+      "country": "Netherlands",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Team SD Worx-ProTime (X)",
+      "url": "https://rss.app/feeds/qlFUYB8xu7SUitMk.xml",
+      "country": "Netherlands",
+      "platform": "X"
+    },
+    {
+      "name": "Team SD Worx-ProTime (LinkedIn)",
+      "url": "https://rss.app/feeds/PG9hMPCtpSFt4FlT.xml",
+      "country": "Netherlands",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Team SD Worx-ProTime (YouTube)",
+      "url": "https://rss.app/feeds/DU2MZNpgelonfUoX.xml",
+      "country": "Netherlands",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Team SD Worx-ProTime (TikTok)",
+      "url": "https://rss.app/feeds/xKfTIhUp5zQjq9mE.xml",
+      "country": "Netherlands",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Team Visma | Lease a Bike (Facebook)",
+      "url": "https://rss.app/feeds/JAGZ5tEiKapnjpNT.xml",
+      "country": "Netherlands",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Team Visma | Lease a Bike (Instagram)",
+      "url": "https://rss.app/feeds/NDqlipHXrwmepuLH.xml",
+      "country": "Netherlands",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Team Visma | Lease a Bike (X)",
+      "url": "https://rss.app/feeds/rW0sJP4NR8cazV8y.xml",
+      "country": "Netherlands",
+      "platform": "X"
+    },
+    {
+      "name": "Team Visma | Lease a Bike (LinkedIn)",
+      "url": "https://rss.app/feeds/jJUoHYsMbsdZDu3O.xml",
+      "country": "Netherlands",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Team Visma | Lease a Bike (YouTube)",
+      "url": "https://rss.app/feeds/LgTpw2itqzJMve7T.xml",
+      "country": "Netherlands",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Team Visma | Lease a Bike (TikTok)",
+      "url": "https://rss.app/feeds/aQ7uFr7xc0LOsD0G.xml",
+      "country": "Netherlands",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Team Visma | Lease a Bike W. (Instagram)",
+      "url": "https://rss.app/feeds/APkRmiSxtsmXCuMB.xml",
+      "country": "Netherlands",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Team Visma | Lease a Bike W. (X)",
+      "url": "https://rss.app/feeds/JG8QHDaurk9qoTFY.xml",
+      "country": "Netherlands",
+      "platform": "X"
+    },
+    {
+      "name": "TotalEnergies (Facebook)",
+      "url": "https://rss.app/feeds/t3qXz2AZC2of83Y2.xml",
+      "country": "France",
+      "platform": "Facebook"
+    },
+    {
+      "name": "TotalEnergies (Instagram)",
+      "url": "https://rss.app/feeds/B2NOaih6lGB6mnd1.xml",
+      "country": "France",
+      "platform": "Instagram"
+    },
+    {
+      "name": "TotalEnergies (X)",
+      "url": "https://rss.app/feeds/SF8ggEelnQ2Jkshl.xml",
+      "country": "France",
+      "platform": "X"
+    },
+    {
+      "name": "TotalEnergies (LinkedIn)",
+      "url": "https://rss.app/feeds/qqI4bdUaYpApQRfa.xml",
+      "country": "France",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "TotalEnergies (YouTube)",
+      "url": "https://rss.app/feeds/SpxQI15u5C9p5qOh.xml",
+      "country": "France",
+      "platform": "YouTube"
+    },
+    {
+      "name": "TotalEnergies (TikTok)",
+      "url": "https://rss.app/feeds/Des5Bcu6IpLmEmGb.xml",
+      "country": "France",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Tudor Pro Cycling Team (Facebook)",
+      "url": "https://rss.app/feeds/rsJqGCZeq8h8X2ul.xml",
+      "country": "Switzerland",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Tudor Pro Cycling Team (Instagram)",
+      "url": "https://rss.app/feeds/Cx0ZM5gMW2wMni0X.xml",
+      "country": "Switzerland",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Tudor Pro Cycling Team (LinkedIn)",
+      "url": "https://rss.app/feeds/pqI7CW8NxUxmQvdH.xml",
+      "country": "Switzerland",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Tudor Pro Cycling Team (YouTube)",
+      "url": "https://rss.app/feeds/Hs2YbIwNayY7MoRr.xml",
+      "country": "Switzerland",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Tudor Pro Cycling Team (TikTok)",
+      "url": "https://rss.app/feeds/m8pbmlaRaCZGCno6.xml",
+      "country": "Switzerland",
+      "platform": "TikTok"
+    },
+    {
+      "name": "UAE Team ADQ (Facebook)",
+      "url": "https://rss.app/feeds/9EB6BqwBXRsPi1se.xml",
+      "country": "United Arab Emirates",
+      "platform": "Facebook"
+    },
+    {
+      "name": "UAE Team ADQ (Instagram)",
+      "url": "https://rss.app/feeds/kLcLqne5Jf7ckb5A.xml",
+      "country": "United Arab Emirates",
+      "platform": "Instagram"
+    },
+    {
+      "name": "UAE Team ADQ (X)",
+      "url": "https://rss.app/feeds/vBvq4p4DPQH47hka.xml",
+      "country": "United Arab Emirates",
+      "platform": "X"
+    },
+    {
+      "name": "UAE Team ADQ (LinkedIn)",
+      "url": "https://rss.app/feeds/4i4KArOfbvMwcV0d.xml",
+      "country": "United Arab Emirates",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "UAE Team ADQ (YouTube)",
+      "url": "https://rss.app/feeds/uWttA37cGKaCww1j.xml",
+      "country": "United Arab Emirates",
+      "platform": "YouTube"
+    },
+    {
+      "name": "UAE Team ADQ (TikTok)",
+      "url": "https://rss.app/feeds/F3n17dZ8d41NUOS1.xml",
+      "country": "United Arab Emirates",
+      "platform": "TikTok"
+    },
+    {
+      "name": "UAE Team Emirates XRG (Facebook)",
+      "url": "https://rss.app/feeds/FsLHxB6suhPHYgOj.xml",
+      "country": "United Arab Emirates",
+      "platform": "Facebook"
+    },
+    {
+      "name": "UAE Team Emirates XRG (Instagram)",
+      "url": "https://rss.app/feeds/bhb5lruk5Iml3su6.xml",
+      "country": "United Arab Emirates",
+      "platform": "Instagram"
+    },
+    {
+      "name": "UAE Team Emirates XRG (X)",
+      "url": "https://rss.app/feeds/CMv7GEglFlcof8XX.xml",
+      "country": "United Arab Emirates",
+      "platform": "X"
+    },
+    {
+      "name": "UAE Team Emirates XRG (LinkedIn)",
+      "url": "https://rss.app/feeds/8la8v4Dg5xtSbQej.xml",
+      "country": "United Arab Emirates",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "UAE Team Emirates XRG (YouTube)",
+      "url": "https://rss.app/feeds/ZSaNkzfCsdd3NyBm.xml",
+      "country": "United Arab Emirates",
+      "platform": "YouTube"
+    },
+    {
+      "name": "UAE Team Emirates XRG (TikTok)",
+      "url": "https://rss.app/feeds/IFOLVVjiiOZAdz8f.xml",
+      "country": "United Arab Emirates",
+      "platform": "TikTok"
+    },
+    {
+      "name": "Uno-X Mobility (Facebook)",
+      "url": "https://rss.app/feeds/hihd2ecE8mxWqrZ9.xml",
+      "country": "Norway",
+      "platform": "Facebook"
+    },
+    {
+      "name": "Uno-X Mobility (Instagram)",
+      "url": "https://rss.app/feeds/GmHsXbTQSvgNSJiU.xml",
+      "country": "Norway",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Uno-X Mobility (X)",
+      "url": "https://rss.app/feeds/MEykJWt4JubGfHRx.xml",
+      "country": "Norway",
+      "platform": "X"
+    },
+    {
+      "name": "Uno-X Mobility (LinkedIn)",
+      "url": "https://rss.app/feeds/eiZBMD5E8xTQG8WD.xml",
+      "country": "Norway",
+      "platform": "LinkedIn"
+    },
+    {
+      "name": "Uno-X Mobility (YouTube)",
+      "url": "https://rss.app/feeds/Spkq4gq5jjcWIQ3o.xml",
+      "country": "Norway",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Uno-X Mobility (TikTok)",
+      "url": "https://rss.app/feeds/UWeHhV72vSuJflVb.xml",
+      "country": "Norway",
+      "platform": "TikTok"
+    },
+    {
+      "name": "XDS Astana Team (Facebook)",
+      "url": "https://rss.app/feeds/JB1bghgG9Ah9Y7IN.xml",
+      "country": "Kazahkstan",
+      "platform": "Facebook"
+    },
+    {
+      "name": "XDS Astana Team (Instagram)",
+      "url": "https://rss.app/feeds/EZrcnzdVVqZImleq.xml",
+      "country": "Kazahkstan",
+      "platform": "Instagram"
+    },
+    {
+      "name": "XDS Astana Team (X)",
+      "url": "https://rss.app/feeds/GKhfT9vNBwoBy5pX.xml",
+      "country": "Kazahkstan",
+      "platform": "X"
+    },
+    {
+      "name": "XDS Astana Team (YouTube)",
+      "url": "https://rss.app/feeds/yhoKp8SNV1DRgGgA.xml",
+      "country": "Kazahkstan",
+      "platform": "YouTube"
+    },
+    {
+      "name": "XDS Astana Team (TikTok)",
+      "url": "https://rss.app/feeds/V4qYpyXXTEr0dWT9.xml",
+      "country": "Kazahkstan",
+      "platform": "TikTok"
+    }
+  ]
+}

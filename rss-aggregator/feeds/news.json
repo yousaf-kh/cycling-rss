@@ -1,0 +1,299 @@
+{
+  "title": "News",
+  "sources": [
+    {
+      "name": "Feltet",
+      "url": "https://rss.app/feeds/U0i6RfkK7W03WIn1.xml",
+      "country": "Denmark",
+      "icon": "🇩🇰"
+    },
+    {
+      "name": "Eurosport",
+      "url": "https://rss.app/feeds/iv1rRv2zYV1GcJBs.xml",
+      "country": "Denmark",
+      "icon": "🇩🇰"
+    },
+    {
+      "name": "Ekstra Bladet",
+      "url": "https://rss.app/feeds/rWh3nzoLJSgINSSv.xml",
+      "country": "Denmark",
+      "icon": "🇩🇰"
+    },
+    {
+      "name": "DR Sporten",
+      "url": "https://rss.app/feeds/s0YS4PbW3LildwI9.xml",
+      "country": "Denmark",
+      "icon": "🇩🇰"
+    },
+    {
+      "name": "B.T.",
+      "url": "https://rss.app/feeds/zsCRk4u3q4bNgzjd.xml",
+      "country": "Denmark",
+      "icon": "🇩🇰"
+    },
+    {
+      "name": "TV2 Sport",
+      "url": "https://rss.app/feeds/D5Uw9GMEiyF4D9rY.xml",
+      "country": "Denmark",
+      "icon": "🇩🇰"
+    },
+    {
+      "name": "Dansk Cykle Union",
+      "url": "https://rss.app/feeds/6Do4zMIA48wFHuic.xml",
+      "country": "Denmark",
+      "icon": "🇩🇰"
+    },
+    {
+      "name": "ViaPlay Sport News",
+      "url": "https://rss.app/feeds/BZoL27iJOrMb2Zc2.xml",
+      "country": "Denmark",
+      "icon": "🇩🇰"
+    },
+    {
+      "name": "British Cycling",
+      "url": "https://rss.app/feeds/AhdLiJ96EifaWDQV.xml",
+      "country": "United Kingdom",
+      "icon": "🇬🇧"
+    },
+    {
+      "name": "BBC Cycling",
+      "url": "https://rss.app/feeds/2ngLn78oNdJ4XWO5.xml",
+      "country": null,
+      "icon": "🇬🇧"
+    },
+    {
+      "name": "Cycling News",
+      "url": "https://rss.app/feeds/SUneFgdU9cy11RHJ.xml",
+      "country": "United Kingdom",
+      "icon": "🇬🇧"
+    },
+    {
+      "name": "CyclingUpToDate",
+      "url": "https://rss.app/feeds/javVUcBS8RkVe0Gz.xml",
+      "country": "United Kingdom",
+      "icon": "🇬🇧"
+    },
+    {
+      "name": "Cycling Weekly",
+      "url": "https://rss.app/feeds/acWI21cQjwQjvLVi.xml",
+      "country": "United Kingdom",
+      "icon": "🇬🇧"
+    },
+    {
+      "name": "Domestique",
+      "url": "https://rss.app/feeds/wFY8XCB2hdkDT3u9.xml",
+      "country": "United Kingdom",
+      "icon": "🇬🇧"
+    },
+    {
+      "name": "IDL Pro Cycling",
+      "url": "https://rss.app/feeds/C3Ds8ozZuKzQmV9m.xml",
+      "country": "United Kingdom",
+      "icon": "🇬🇧"
+    },
+    {
+      "name": "UCI News",
+      "url": "https://rss.app/feeds/bG7c5EKbswKbIO8K.xml",
+      "country": null,
+      "icon": "🇬🇧"
+    },
+    {
+      "name": "USA Cycling",
+      "url": "https://rss.app/feeds/P8sXHpXohoXapizn.xml",
+      "country": "USA",
+      "icon": "🇬🇧"
+    },
+    {
+      "name": "Eurosport",
+      "url": "https://rss.app/feeds/ML64htzcWQmjXvFC.xml",
+      "country": "Germany",
+      "icon": "🇩🇪"
+    },
+    {
+      "name": "Radsport Aktuell",
+      "url": "https://rss.app/feeds/WG0PxzlrjsSASWnr.xml",
+      "country": "Germany",
+      "icon": "🇩🇪"
+    },
+    {
+      "name": "Radsport News",
+      "url": "https://rss.app/feeds/C49PYwfVfhRMGsYJ.xml",
+      "country": "Germany",
+      "icon": "🇩🇪"
+    },
+    {
+      "name": "Tour Magazin",
+      "url": "https://rss.app/feeds/mmd9inU5GfRXBQOn.xml",
+      "country": "Germany",
+      "icon": "🇩🇪"
+    },
+    {
+      "name": "German Cycling Federation",
+      "url": "https://rss.app/feeds/o5ofEyDK8r39xiFg.xml",
+      "country": "Germany",
+      "icon": "🇩🇪"
+    },
+    {
+      "name": "Het Nieuwsblad",
+      "url": "https://rss.app/feeds/s0joRoxaGEnhFQ0i.xml",
+      "country": "Belgium",
+      "icon": "🇧🇪"
+    },
+    {
+      "name": "RTBF Sport",
+      "url": "https://rss.app/feeds/IsOiUDseFNTc7P5b.xml",
+      "country": "Belgium",
+      "icon": "🇧🇪"
+    },
+    {
+      "name": "Wielerflits",
+      "url": "https://rss.app/feeds/cZR5MOohk4tTPPoL.xml",
+      "country": "Belgium",
+      "icon": "🇧🇪"
+    },
+    {
+      "name": "Royal Belgian Cycling League",
+      "url": "https://rss.app/feeds/AOijAS8xgAWOm7UE.xml",
+      "country": "KBWB-RLVB / Royale Ligue vélocipédique belge",
+      "icon": "🇧🇪"
+    },
+    {
+      "name": "De Telegraaf",
+      "url": "https://rss.app/feeds/xvcrG07UqfuYbSV2.xml",
+      "country": "Netherlands",
+      "icon": "🇳🇱"
+    },
+    {
+      "name": "Eurosport",
+      "url": "https://rss.app/feeds/wXU79TztR6qrOBPz.xml",
+      "country": "Netherlands",
+      "icon": "🇳🇱"
+    },
+    {
+      "name": "In de Leiderstrui",
+      "url": "https://rss.app/feeds/AS2wi8XI6sjzsKgx.xml",
+      "country": "Netherlands",
+      "icon": "🇳🇱"
+    },
+    {
+      "name": "Wielerflits",
+      "url": "https://rss.app/feeds/8cWWUvCtFBqQxS3s.xml",
+      "country": "Netherlands",
+      "icon": "🇳🇱"
+    },
+    {
+      "name": "WielrennenUpToDate",
+      "url": "https://rss.app/feeds/8S1GMUsuo0xErFpE.xml",
+      "country": "Netherlands",
+      "icon": "🇳🇱"
+    },
+    {
+      "name": "Royal Dutch Cycling Union",
+      "url": "https://rss.app/feeds/c4fh8Zl0NmDxK0jY.xml",
+      "country": "KNWU - Koninklijke Nederlandsche Wielren Unie",
+      "icon": "🇳🇱"
+    },
+    {
+      "name": "CiclismoAtual",
+      "url": "https://rss.app/feeds/cWFxUIgAJl0QkO6A.xml",
+      "country": "Portugal",
+      "icon": "🇵🇹"
+    },
+    {
+      "name": "Road Cycling",
+      "url": "https://rss.app/feeds/Z81KGXGvzWeCUhlJ.xml",
+      "country": "Czech Republic",
+      "icon": "🇨🇿"
+    },
+    {
+      "name": "BiciPRO1",
+      "url": "https://rss.app/feeds/0byr0zPQ0qjxPSiV.xml",
+      "country": "Italy",
+      "icon": "🇮🇹"
+    },
+    {
+      "name": "BiciPRO2",
+      "url": "https://rss.app/feeds/Ycoc3pcxOYwVba3t.xml",
+      "country": "Italy",
+      "icon": "🇮🇹"
+    },
+    {
+      "name": "La Gazzetta dello S.",
+      "url": "https://rss.app/feeds/DGde10AHVDnrJtpw.xml",
+      "country": "Italy",
+      "icon": "🇮🇹"
+    },
+    {
+      "name": "SpazioCiclismo",
+      "url": "https://rss.app/feeds/yLesfzoH5NW5cdhK.xml",
+      "country": "Italy",
+      "icon": "🇮🇹"
+    },
+    {
+      "name": "Italian Cycling Federation",
+      "url": "https://rss.app/feeds/ah1WFuGn4bAhVrf8.xml",
+      "country": "Federazione Ciclistica Italiana (FCI)",
+      "icon": "🇮🇹"
+    },
+    {
+      "name": "CyclismActu",
+      "url": "https://rss.app/feeds/hsdmBzcZjcqGXq5V.xml",
+      "country": "France",
+      "icon": "🇫🇷"
+    },
+    {
+      "name": "L'Equipe",
+      "url": "https://rss.app/feeds/flAtiwFOD6ZJeiMh.xml",
+      "country": "France",
+      "icon": "🇫🇷"
+    },
+    {
+      "name": "VeloPro",
+      "url": "https://rss.app/feeds/aj83YjDd6xfdsO6c.xml",
+      "country": "France",
+      "icon": "🇫🇷"
+    },
+    {
+      "name": "French Cycling Federation",
+      "url": "https://rss.app/feeds/5XI2PxoIzzAay8L6.xml",
+      "country": "FFC - Fédération Française de Cyclisme",
+      "icon": "🇫🇷"
+    },
+    {
+      "name": "Ciclismo a Fondo",
+      "url": "https://rss.app/feeds/7976DvNY7fxaQYef.xml",
+      "country": "Spain",
+      "icon": "🇪🇸"
+    },
+    {
+      "name": "Ciclismo Al Dia",
+      "url": "https://rss.app/feeds/SU6XXmU8duwZSLBw.xml",
+      "country": "Spain",
+      "icon": "🇪🇸"
+    },
+    {
+      "name": "Diario As",
+      "url": "https://rss.app/feeds/zudHSmsSjsbN3E2E.xml",
+      "country": "Spain",
+      "icon": "🇪🇸"
+    },
+    {
+      "name": "Eurosport",
+      "url": "https://rss.app/feeds/5DWPPRqovVALYLvB.xml",
+      "country": "Spain",
+      "icon": "🇪🇸"
+    },
+    {
+      "name": "Marca",
+      "url": "https://rss.app/feeds/dVUdyietlW4fHYTg.xml",
+      "country": "Spain",
+      "icon": "🇪🇸"
+    },
+    {
+      "name": "Royal Spanish Cycling Federation",
+      "url": "https://rss.app/feeds/_mbbqhwosbLc90fdH.xml",
+      "country": "Real Federación Española de Ciclismo – RFEC",
+      "icon": "🇪🇸"
+    }
+  ]
+}
