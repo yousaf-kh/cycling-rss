@@ -41,7 +41,7 @@ jobs:
       - name: Run aggregator
         env:
           RETENTION_DAYS: "365"
-          MAX_OUTPUT_ITEMS: "500"
+          MAX_OUTPUT_ITEMS: "100000"
           FETCH_WORKERS: "12"
           FETCH_TIMEOUT: "30"
           SITE_TITLE: "My Cycling RSS Feeds"
