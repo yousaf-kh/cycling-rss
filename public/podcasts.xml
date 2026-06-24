@@ -4,10 +4,10 @@
 <title>My Cycling RSS Feeds - Podcasts</title>
 <description>Aggregated Podcasts feed</description>
 <language>en</language>
-<lastBuildDate>Wed, 24 Jun 2026 09:55:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 10:13:55 +0000</lastBuildDate>
 <generator>rss-aggregator</generator>
-<link>https://YOUR_USERNAME.github.io/YOUR_REPO/podcasts.xml</link>
-<atom:link href="https://YOUR_USERNAME.github.io/YOUR_REPO/podcasts.xml" rel="self" type="application/rss+xml"/>
+<link>https://yousaf-kh.github.io/cycling-rss/podcasts.xml</link>
+<atom:link href="https://yousaf-kh.github.io/cycling-rss/podcasts.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>S14 Ep71: Pogačar Gets On A Swiss Roll</title>
 <link>https://audioboom.com/posts/8920007</link>
