@@ -25,6 +25,7 @@ import hashlib
 import html
 import json
 import os
+import re
 import sys
 from email.utils import format_datetime
 from pathlib import Path
@@ -181,22 +182,42 @@ def rss_date(d: dt.datetime) -> str:
     return format_datetime(d)
 
 
+# Characters NOT permitted anywhere in an XML 1.0 document. Source feeds
+# (especially scraped ones) sometimes embed control characters that make
+# the generated feed malformed; strip them before writing.
+_ILLEGAL_XML_CHARS = re.compile(
+    "[^\x09\x0a\x0d\x20-\ud7ff\ue000-\ufffd\U00010000-\U0010ffff]"
+)
+
+
+def xclean(value) -> str:
+    """Remove XML-illegal characters from a value (coerced to str)."""
+    if value is None:
+        return ""
+    return _ILLEGAL_XML_CHARS.sub("", str(value))
+
+
+def xe(value) -> str:
+    """Clean illegal chars, then XML-escape. Use for all element text/attrs."""
+    return escape(xclean(value))
+
+
 def build_rss(app: str, title: str, items: list[dict]) -> str:
     self_url = f"{SITE_BASE_URL}/{app}.xml" if SITE_BASE_URL else ""
     parts = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
         "<channel>",
-        f"<title>{escape(SITE_TITLE)} - {escape(title)}</title>",
-        f"<description>Aggregated {escape(title)} feed</description>",
+        f"<title>{xe(SITE_TITLE)} - {xe(title)}</title>",
+        f"<description>Aggregated {xe(title)} feed</description>",
         "<language>en</language>",
         f"<lastBuildDate>{rss_date(NOW)}</lastBuildDate>",
         f"<generator>rss-aggregator</generator>",
     ]
     if self_url:
-        parts.append(f'<link>{escape(self_url)}</link>')
+        parts.append(f'<link>{xe(self_url)}</link>')
         parts.append(
-            f'<atom:link href="{escape(self_url)}" rel="self" '
+            f'<atom:link href="{xe(self_url)}" rel="self" '
             'type="application/rss+xml"/>'
         )
     else:
@@ -205,28 +226,29 @@ def build_rss(app: str, title: str, items: list[dict]) -> str:
     for it in items:
         pub = item_reference_date(it)
         parts.append("<item>")
-        parts.append(f"<title>{escape(it['title'])}</title>")
+        parts.append(f"<title>{xe(it['title'])}</title>")
         if it.get("link"):
-            parts.append(f"<link>{escape(it['link'])}</link>")
+            parts.append(f"<link>{xe(it['link'])}</link>")
         guid_val = it.get("link") or it["id"]
         is_perma = "true" if it.get("link") else "false"
         parts.append(
-            f'<guid isPermaLink="{is_perma}">{escape(guid_val)}</guid>'
+            f'<guid isPermaLink="{is_perma}">{xe(guid_val)}</guid>'
         )
         parts.append(f"<pubDate>{rss_date(pub)}</pubDate>")
         # Source name as a category, plus any metadata categories.
-        parts.append(f"<category>{escape(it['source'])}</category>")
+        parts.append(f"<category>{xe(it['source'])}</category>")
         for meta in ("country", "platform", "language"):
             if it.get(meta):
-                parts.append(f"<category>{escape(str(it[meta]))}</category>")
+                parts.append(f"<category>{xe(it[meta])}</category>")
         if it.get("summary"):
-            # summaries can contain HTML -> wrap in CDATA-safe escaping
-            safe = it["summary"].replace("]]>", "]]&gt;")
+            # summaries can contain HTML -> wrap in CDATA, but still strip
+            # XML-illegal chars and neutralise any CDATA terminator.
+            safe = xclean(it["summary"]).replace("]]>", "]]&gt;")
             parts.append(f"<description><![CDATA[{safe}]]></description>")
-        # human-readable source attribution appended to content
+        # human-readable source attribution
         parts.append(
-            f'<source url="{escape(it.get("source_url",""))}">'
-            f'{escape(it["source"])}</source>'
+            f'<source url="{xe(it.get("source_url", ""))}">'
+            f'{xe(it["source"])}</source>'
         )
         parts.append("</item>")
 
