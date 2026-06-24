@@ -1,0 +1,79 @@
+name: Aggregate RSS feeds
+
+on:
+  schedule:
+    # Every 3 hours, on the hour (UTC). GitHub cron uses UTC.
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}        # allow manual runs from the Actions tab
+  push:
+    branches: [main]           # also rebuild when you edit configs/code
+    paths:
+      - "feeds/**"
+      - "aggregate.py"
+      - ".github/workflows/aggregate.yml"
+
+# Make sure two scheduled runs never overlap.
+concurrency:
+  group: rss-aggregate
+  cancel-in-progress: false
+
+permissions:
+  contents: write              # needed to commit the archive + output back
+  pages: write
+  id-token: write
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run aggregator
+        env:
+          RETENTION_DAYS: "365"
+          MAX_OUTPUT_ITEMS: "500"
+          FETCH_WORKERS: "12"
+          FETCH_TIMEOUT: "30"
+          SITE_TITLE: "My Cycling RSS Feeds"
+          # IMPORTANT: change this to your own Pages URL
+          # (https://<your-username>.github.io/<your-repo>)
+          SITE_BASE_URL: "https://YOUR_USERNAME.github.io/YOUR_REPO"
+        run: python aggregate.py
+
+      - name: Commit updated archive and feeds
+        run: |
+          git config user.name  "rss-bot"
+          git config user.email "rss-bot@users.noreply.github.com"
+          git add data public
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update feeds ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: aggregate
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
