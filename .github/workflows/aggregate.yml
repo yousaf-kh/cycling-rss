@@ -12,10 +12,11 @@ on:
       - "aggregate.py"
       - ".github/workflows/aggregate.yml"
 
-# Make sure two scheduled runs never overlap.
+# Make sure a newer run supersedes an older in-progress one instead of
+# colliding with it.
 concurrency:
   group: rss-aggregate
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 permissions:
   contents: write              # needed to commit the archive + output back
@@ -47,7 +48,7 @@ jobs:
           SITE_TITLE: "My Cycling RSS Feeds"
           # IMPORTANT: change this to your own Pages URL
           # (https://<your-username>.github.io/<your-repo>)
-          SITE_BASE_URL: "https://YOUR_USERNAME.github.io/YOUR_REPO"
+          SITE_BASE_URL: "https://yousaf-kh.github.io/cycling-rss"
         run: python aggregate.py
 
       - name: Commit updated archive and feeds
@@ -59,7 +60,12 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Update feeds ($(date -u '+%Y-%m-%d %H:%M UTC'))"
-            git push
+            # retry push, rebasing on any changes that landed meanwhile
+            for i in 1 2 3 4 5; do
+              git pull --rebase --autostash origin main && git push && break
+              echo "Push attempt $i failed, retrying..."
+              sleep 5
+            done
           fi
 
       - name: Upload Pages artifact
