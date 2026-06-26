@@ -4,7 +4,7 @@
 <title>My Cycling RSS Feeds - Podcasts</title>
 <description>Aggregated Podcasts feed</description>
 <language>en</language>
-<lastBuildDate>Fri, 26 Jun 2026 14:31:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 17:02:35 +0000</lastBuildDate>
 <generator>rss-aggregator</generator>
 <link>https://yousaf-kh.github.io/cycling-rss/podcasts.xml</link>
 <atom:link href="https://yousaf-kh.github.io/cycling-rss/podcasts.xml" rel="self" type="application/rss+xml"/>
@@ -6954,16 +6954,6 @@ podimo.dk/eddy Hosted by Simplecast, an AdsWizz company. See https://pcm.adswizz
 for information about our collection and use of personal data for
 advertising.]]></description>
 <source url="https://rss.app/feeds/UmTcfoWQUbq891xL.xml">Café Eddy</source>
-</item>
-<item>
-<title>Har du fejltanket?</title>
-<link>https://podcasters.spotify.com/pod/show/lang-distance/episodes/Har-du-fejltanket-e34p13n</link>
-<guid isPermaLink="true">https://podcasters.spotify.com/pod/show/lang-distance/episodes/Har-du-fejltanket-e34p13n</guid>
-<pubDate>Thu, 26 Jun 2025 15:25:25 +0000</pubDate>
-<category>Lang Distance</category>
-<category>🇩🇰</category>
-<description><![CDATA[<div><img src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43151710/43151710-1741004891862-e9403bf345136.jpg" style="width: 100%;" /><div>Vi er med fra et hotelværelse i Nordens Paris bedre kendt som Aalborg, hvad med den bil afstemning, Jakob fortæller om et nyt bilmæssigt lavpunkt, DM snak og nørderi plus meget mere i denne episode.</div></div>]]></description>
-<source url="https://rss.app/feeds/0jJE9xRgPWEqruix.xml">Lang Distance</source>
 </item>
 </channel>
 </rss>
