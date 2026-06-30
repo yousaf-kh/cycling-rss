@@ -4,10 +4,19 @@
 <title>My Cycling RSS Feeds - YouTube</title>
 <description>Aggregated YouTube feed</description>
 <language>en</language>
-<lastBuildDate>Tue, 30 Jun 2026 03:56:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 09:42:44 +0000</lastBuildDate>
 <generator>rss-aggregator</generator>
 <link>https://yousaf-kh.github.io/cycling-rss/youtube.xml</link>
 <atom:link href="https://yousaf-kh.github.io/cycling-rss/youtube.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mandsholdet X Eurosport - Hakket Makker</title>
+<link>https://www.youtube.com/watch?v=68gO-UDU1M8</link>
+<guid isPermaLink="true">https://www.youtube.com/watch?v=68gO-UDU1M8</guid>
+<pubDate>Tue, 30 Jun 2026 07:38:56 +0000</pubDate>
+<category>YouTube Channel</category>
+<description><![CDATA[<div><div><div style="width: 100%; height: 0; padding-bottom: 56.25%;"></div></div></div>]]></description>
+<source url="https://rss.app/feeds/Y6TauCRZUfLfT4Io.xml">YouTube Channel</source>
+</item>
 <item>
 <title>US Pro-Amateur Races Are NUTS</title>
 <link>https://www.youtube.com/watch?v=3r0j-u0S7_g</link>
@@ -119,7 +128,7 @@
 <source url="https://rss.app/feeds/0opK8z4Kr99AhgTS.xml">TNT Sports Cycling</source>
 </item>
 <item>
-<title>Signed By Canyon At 12 Years Old. Is He The Next Big Thing?</title>
+<title>The Next Big Thing In Mountain Biking...?</title>
 <link>https://www.youtube.com/watch?v=_A73bVIqG_o</link>
 <guid isPermaLink="true">https://www.youtube.com/watch?v=_A73bVIqG_o</guid>
 <pubDate>Sun, 28 Jun 2026 09:00:26 +0000</pubDate>
