@@ -4,10 +4,20 @@
 <title>My Cycling RSS Feeds - YouTube</title>
 <description>Aggregated YouTube feed</description>
 <language>en</language>
-<lastBuildDate>Mon, 29 Jun 2026 22:10:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 03:56:14 +0000</lastBuildDate>
 <generator>rss-aggregator</generator>
 <link>https://yousaf-kh.github.io/cycling-rss/youtube.xml</link>
 <atom:link href="https://yousaf-kh.github.io/cycling-rss/youtube.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>US Pro-Amateur Races Are NUTS</title>
+<link>https://www.youtube.com/watch?v=3r0j-u0S7_g</link>
+<guid isPermaLink="true">https://www.youtube.com/watch?v=3r0j-u0S7_g</guid>
+<pubDate>Tue, 30 Jun 2026 03:04:48 +0000</pubDate>
+<category>Chris Horner</category>
+<category>🇺🇸</category>
+<description><![CDATA[<div><div><div style="width: 100%; height: 0; padding-bottom: 56.25%;"></div></div></div>]]></description>
+<source url="https://rss.app/feeds/v2IovdiRHzA8tGLL.xml">Chris Horner</source>
+</item>
 <item>
 <title>Everybody has Tour fever 🤩 | The Gruppetto with Rob Hatch</title>
 <link>https://www.youtube.com/watch?v=oSK31hDk_z8</link>
@@ -109,7 +119,7 @@
 <source url="https://rss.app/feeds/0opK8z4Kr99AhgTS.xml">TNT Sports Cycling</source>
 </item>
 <item>
-<title>The Next Big Thing In Mountain Biking...?</title>
+<title>Signed By Canyon At 12 Years Old. Is He The Next Big Thing?</title>
 <link>https://www.youtube.com/watch?v=_A73bVIqG_o</link>
 <guid isPermaLink="true">https://www.youtube.com/watch?v=_A73bVIqG_o</guid>
 <pubDate>Sun, 28 Jun 2026 09:00:26 +0000</pubDate>
